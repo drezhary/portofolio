@@ -1,0 +1,68 @@
+/* hero background image */
+.bgimage {
+    height: 100vh;
+    background: url('images/heroImage.jpg');
+    background-size: cover;
+    position:relative;
+}
+
+/* Text CSS diatas hero image */
+.hero_title {
+    font-size: 4.5rem;
+}
+
+/* Text CSS untuk deskripsi */
+.hero_desc {
+    font-size: 2rem;
+}
+
+/* Posisi Text CSS */
+.hero-text {
+    text-align: center;
+    position : absolute;
+    top : 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:black;
+}
+
+/* Ukuran gambar about */
+.ukuranGambar{
+    width:100%;
+}
+
+/* Agar paragraf rata kanan kiri */
+.about {
+    margin: 0;
+    text-indent: 2rem;
+    text-align: justify;
+  }
+
+  /* CSS untuk bagian services */
+  .servicesText.card{
+    height: 280px;
+    cursor: pointer;
+  }
+
+  .servicesIcon {
+    font-size: 48px;
+    text-align: center;
+    width: 100%;
+  }
+
+.cardTitle{
+    text-align: center;
+}
+
+.card:hover .servicesIcon {
+    color: #008000;
+}
+
+.servicesText:hover {
+    border: #008000 1px solid;
+}
+
+/* Menampilkan latar belakang gelap pada navbar scroll */
+.navbarScroll.navbarDark {
+    background-color: lightblue;
+}

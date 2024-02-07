@@ -1,0 +1,19 @@
+Membuat website portofolio dengan bootstrap
+Portofolio adalah hasil karya dari kerja yang pernah kita buat untuk menjadi bukti kemampuan yang kita miliki.
+Buat apa? 
+1. Membuktikan kemampuan yang berhubungan dengan pengalaman
+2. Menampilkan kepribadian kita
+3. Orang HRD melihat dan tahu kemana kalau mau menghubungi kita
+4. Kamu akan mudah dicari di mesin pencari.
+
+
+Langkah - langkah membuat website portofolio
+1. Sambungkan kode dengan bootstrap
+2. Buat nav bar
+	1. Home
+	2. About
+	3. Services
+	4. Portofolio
+	5. Contact
+2. Buat main-banner, halaman paling atas website.
+	Kode layout diatur dari CSS.
